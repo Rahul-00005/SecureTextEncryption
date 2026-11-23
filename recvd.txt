@@ -1,0 +1,5 @@
+Hello World!
+This is my Secure Text Compression and Encryption System.
+
+This project uses AES-256 encryption and data compression.
+Java provides security and efficient file storage. 12345
